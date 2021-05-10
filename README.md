@@ -1,48 +1,55 @@
-### Hi there 👋
+# Hi there! 👋
+### Welcome to my GitHub Profile, take a tour and check out my repos!
+<table width="100%">
+  <tr>
+  <th>Tech stack currently using</th>
+  <th>Find me at</th>
+  </tr>
+  <tr>
+  <td width="50%">
 
-<!--
-**Esrat21/Esrat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align = "center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" rel="#" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  
+ </p>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Esrat -->
+  </td>
+  <td width="50%">
+  <br><p align="center">I'm interesting in <b>competitive programming</b>, <b>data structures</b>, <b>mobile and web development</b>.
+ 
+   So if you are in too, <b href="https://www.linkedin.com/in/costadeveloper/" target="_blank">contact me</b>, I'll be happy to meet you!<br><br>
+   
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/esrat21/)
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Systems at the Federal University of Uberlândia.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Game Development and desktop Development.\
-✍️ &nbsp;In my free time, I stydy rocket science and space exploration.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at jgmdairel@gmail.com!\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
-
-### 🛠 &nbsp;Technologies
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Esrat21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esrat21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esrat21&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
-
-### 🤝🏻 &nbsp;Social Media
-
-<p align="center">
-<a href="https://linkedin.com/in/esrat21/"><img src="https://img.shields.io/badge/-Joao%20Gabriel%20de%20Matos%20Dairel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jgmdairel@gmail.com"><img src="https://img.shields.io/badge/-jgmdairel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/esrat_21"><img src="https://img.shields.io/badge/-@esrat_21-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/EsratJoao"><img src="https://img.shields.io/badge/-@EsratJoao-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+  </td>
+  <tr>
+  <td width = "50%">
+  <br>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esrat21&count_private=true&show_icons=true&theme=radical&locale=en&layout=compact%22" alt="João Gabriel" /></p>
+  </td>
+  <td width = "50%">
+    <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Esrat21&count_private=true&show_icons=true&theme=radical" alt="Esrat21" /></p>
+  <br>
+  </td>
+  <tr>
+  <td colspan = 2><br><p align = "center"><b> I’m currently learning <b></p></td>
+  <tr>
+  <td colspan=2 width ="50%">
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </p>
+  </table>
