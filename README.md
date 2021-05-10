@@ -15,7 +15,7 @@
 ✉️ &nbsp;You can shoot me an email at jgmdairel@gmail.com!\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,7 +38,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Social Media
 
 <p align="center">
 <a href="https://linkedin.com/in/esrat21/"><img src="https://img.shields.io/badge/-Joao%20Gabriel%20de%20Matos%20Dairel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -46,8 +46,3 @@
 <a href="https://instagram.com/esrat_21"><img src="https://img.shields.io/badge/-@esrat_21-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/EsratJoao"><img src="https://img.shields.io/badge/-@EsratJoao-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
------
-Credits: [João Gabriel de Matos Dairel](https://github.com/Esrat21)
-
-Last Edited on: 05/10/2021
