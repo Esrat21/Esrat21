@@ -5,7 +5,7 @@ Welcome to my corner of the internet! I'm a Fullstack Developer with a love for 
 ## 🛠️ My Superpowers
 
 ### Frontend Wizardry
-- **Frameworks/Libraries**: Vue.js, React Native
+- **Frameworks/Libraries**: Vue.js, React Native, Alpine.js
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Tools**: Tailwind CSS, Redux, Vuex, Webpack, Babel
 
